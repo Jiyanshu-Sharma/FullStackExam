@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FullStackExam/static/css/main.78e67a51.css",
+    "main.js": "/FullStackExam/static/js/main.ef07f5c8.js",
+    "static/js/787.d4aba7ab.chunk.js": "/FullStackExam/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/FullStackExam/index.html",
+    "main.78e67a51.css.map": "/FullStackExam/static/css/main.78e67a51.css.map",
+    "main.ef07f5c8.js.map": "/FullStackExam/static/js/main.ef07f5c8.js.map",
+    "787.d4aba7ab.chunk.js.map": "/FullStackExam/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e67a51.css",
+    "static/js/main.ef07f5c8.js"
+  ]
+}
