@@ -1,0 +1,16 @@
+
+.Header{
+    height: 70px;
+    background-color:darkgoldenrod;
+    margin: 10px;
+    
+    
+}
+.Header ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.Header p{
+    font-size: 30px;
+}
